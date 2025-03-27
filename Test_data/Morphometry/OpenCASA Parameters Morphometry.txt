@@ -1,0 +1,7 @@
+The value of the parameters set to analyze morphometry were:
+
+
+	Microns per Pixel - 0.081
+	Minimum cell size - 10
+	Maximum cell size - 100
+

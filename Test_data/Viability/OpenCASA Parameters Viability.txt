@@ -1,0 +1,8 @@
+The value of the parameters set to analyze viability were:
+
+
+	Microns per Pixel - 0.481
+	Minimum cell size - 10
+	Maximum cell size - 100
+
+
